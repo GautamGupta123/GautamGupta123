@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gautam Gupta</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
-<img align="right" alt="javacoder" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<img align="right" alt="javacoder" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamgupta123&label=Profile%20views&color=0e75b6&style=flat" alt="gautamgupta123" /> </p>
 
 - 📫 How to reach me **gautamgupta100078@gmail.com**
@@ -21,8 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamgupta123&show_icons=true&locale=en&layout=compact" alt="gautamgupta123" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamgupta123&show_icons=true&locale=en&layout=compact" alt="gautamgupta123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamgupta123&show_icons=true&locale=en" alt="gautamgupta123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamgupta123&" alt="gautamgupta123" /></p>
-
-
