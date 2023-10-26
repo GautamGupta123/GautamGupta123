@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautam Gupta</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
-<img align="right" alt="javacoder" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<img align="right" alt="javacoder" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamgupta123&label=Profile%20views&color=0e75b6&style=flat" alt="gautamgupta123" /> </p>
 
