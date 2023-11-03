@@ -1,10 +1,4 @@
- <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
-  <script>
-    var typed = new Typed('#element', {
-      strings: ['Web Developer', 'Video Editor', 'Competetive Coder', 'Gamer'],
-      typeSpeed: 50,
-    });
-  </script>
+<h2>Hi👋,My Name is Gautam Gupta</h2>
 <h3 align="center">A passionate Java Developer</h3>
 
 <img align="right" alt="javacoder" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
