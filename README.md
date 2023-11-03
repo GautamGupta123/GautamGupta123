@@ -28,4 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamgupta123&" alt="gautamgupta123" /></p>
 
 ### 📈My GitHub Contributions
-[Snake Animation](https://github.com/GautamGupta123/GautamGupta123/blob/output/github-contribution-grid-snake-svg)
+![Snake Animation](https://github.com/GautamGupta123/GautamGupta123/output/github-contribution-grid-snake-svg)
