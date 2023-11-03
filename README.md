@@ -1,4 +1,4 @@
-<h2>Hi👋,My Name is Gautam Gupta</h2>
+<h1 align="center">Hi👋,My Name is Gautam Gupta</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
 <img align="right" alt="javacoder" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
