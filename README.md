@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋,My Name is Gautam Gupta</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
-<img align="right" alt="javacoder" width="300" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40kellen.gardner%2Fcoding-for-a-beginner-beginner-9e0c8d917dd4&psig=AOvVaw2y0O8gcAR7n_3qSWxKY-wh&ust=1700065402199000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCv7qTzw4IDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40kellen.gardner%2Fcoding-for-a-beginner-beginner-9e0c8d917dd4&psig=AOvVaw2y0O8gcAR7n_3qSWxKY-wh&ust=1700065402199000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCv7qTzw4IDFQAAAAAdAAAAABAE)">
+<img align="right" alt="javacoder" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamgupta123&label=Profile%20views&color=0e75b6&style=flat" alt="gautamgupta123" /> </p>
 
