@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋,My Name is Gautam Gupta</h1>
-<h3 align="center">A passionate Java Developer</h3>
+<h3 align="center">Exploring Java</h3>
 
 <img align="right" alt="javacoder" width="300" src="https://miro.medium.com/v2/resize:fit:1000/1*yX1tKixQk7eAWxX9bktJ4Q.gif">
 
