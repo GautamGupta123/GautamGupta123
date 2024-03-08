@@ -8,7 +8,7 @@
 - 📫 How to reach me **gautamgupta100078@gmail.com**
 
 - 📄 Resume
-(https://drive.google.com/file/d/1f8fheCxIX8hGGK6rY7a517zF6ns4Kk2z/view?usp=drivesdk)
+(https://drive.google.com/file/d/1EUfGVJnAa_BPn1rcgMuHf_FAWxQDWnks/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
