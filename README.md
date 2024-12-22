@@ -1,5 +1,5 @@
 
-<img align="right" alt="javacoder" width="300" src="https://miro.medium.com/v2/resize:fit:1000/1*yX1tKixQk7eAWxX9bktJ4Q.gif">
+<img align="right" alt="javacoder" width="100%" height="500px" src="https://miro.medium.com/v2/resize:fit:1000/1*yX1tKixQk7eAWxX9bktJ4Q.gif">
 
 <h1 align="center">Hi Developers 👋,My Name is Gautam Gupta</h1>
 <h3 align="center">Exploring and Learning Java</h3>
