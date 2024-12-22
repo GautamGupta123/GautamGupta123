@@ -1,5 +1,5 @@
-
-<img align="right" alt="javacoder" width="100%" height="500px" src="https://miro.medium.com/v2/resize:fit:1000/1*yX1tKixQk7eAWxX9bktJ4Q.gif">
+![image](https://github.com/user-attachments/assets/aba4a622-b4d9-4699-9ba9-7e465d32373c)
+<img align="right" alt="javacoder" width="100%" height="500px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&psig=AOvVaw1JoyPf5sR3CqOCJP-keVyu&ust=1734923247034000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCzjPSyuooDFQAAAAAdAAAAABAE">
 
 <h1 align="center">Hi Developers 👋,My Name is Gautam Gupta</h1>
 <h3 align="center">Exploring and Learning Java</h3>
