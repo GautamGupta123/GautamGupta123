@@ -1,7 +1,9 @@
+
+<img align="right" alt="javacoder" width="300" src="https://miro.medium.com/v2/resize:fit:1000/1*yX1tKixQk7eAWxX9bktJ4Q.gif">
+
 <h1 align="center">Hi Developers 👋,My Name is Gautam Gupta</h1>
 <h3 align="center">Exploring and Learning Java</h3>
 
-<img align="right" alt="javacoder" width="300" src="https://miro.medium.com/v2/resize:fit:1000/1*yX1tKixQk7eAWxX9bktJ4Q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamgupta123&label=Profile%20views&color=0e75b6&style=flat" alt="gautamgupta123" /> </p>
 
